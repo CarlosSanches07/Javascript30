@@ -10,3 +10,4 @@ Exercices that i have done:
 3. [CSS variables](https://carlossanches07.github.io/Javascript30/03%20-%20CSS%20Variables%20-%20DONE/index.html)
 4. [Array Cardio Day 1](https://carlossanches07.github.io/Javascript30/04%20-%20Array%20Cardio%20Day%201%20-%20DONE/index.html)
 5. [Flex Panel Gallery](https://carlossanches07.github.io/Javascript30/05%20-%20Flex%20Panel%20Gallery%20-%20DONE/index.html)
+6. [Type Ahead](https://carlossanches07.github.io/Javascript30/06%20-%20Type%20Ahead/index.html)
