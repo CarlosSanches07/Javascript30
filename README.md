@@ -12,3 +12,4 @@ Exercices that i have done:
 5. [Flex Panel Gallery](https://carlossanches07.github.io/Javascript30/05%20-%20Flex%20Panel%20Gallery%20-%20DONE/index.html)
 6. [Type Ahead](https://carlossanches07.github.io/Javascript30/06%20-%20Type%20Ahead%20-%20DONE/index.html)
 7. [Array Cardio Day 2](https://carlossanches07.github.io/Javascript30/07%20-%20Array%20Cardio%20Day%202%20-%20DONE/index.html)
+8.[Fun with HTML5 Canvas](https://carlossanches07.github.io/Javascript30/08%20-%20Fun%20with%20HTML5%20Canvas%20-%20DONE/index.html)
