@@ -14,3 +14,4 @@ Exercices that i have done:
 7. [Array Cardio Day 2](https://carlossanches07.github.io/Javascript30/07%20-%20Array%20Cardio%20Day%202%20-%20DONE/index.html)
 8. [Fun with HTML5 Canvas](https://carlossanches07.github.io/Javascript30/08%20-%20Fun%20with%20HTML5%20Canvas%20-%20DONE/index.html)
 9. [Dev Tools Domination] (https://carlossanches07.github.io/Javascript30/09%20-%20Dev%20Tools%20Domination%20-%20DONE/index.html)
+10. [Hold Shift and Check Checkboxes] (https://carlossanches07.github.io/Javascript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes%20-%20DONE/index.html)
