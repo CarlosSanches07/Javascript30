@@ -16,3 +16,5 @@ Exercises that i have done:
 9. [Dev Tools Domination](https://carlossanches07.github.io/Javascript30/09%20-%20Dev%20Tools%20Domination%20-%20DONE/index.html)
 10. [Hold Shift and Check Checkboxes](https://carlossanches07.github.io/Javascript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes%20-%20DONE/index.html)
 11. [Custom Video Player](https://carlossanches07.github.io/Javascript30/11%20-%20Custom%20Video%20Player%20-%20DONE/index.html)
+12. [Key Sequence Detection](https://carlossanches07.github.io/Javascript30/12%20-%20Key%20Sequence%20Detection%20-%20DONE/index-START.html)
+13. [Slide in on Scroll](https://carlossanches07.github.io/Javascript30/13%20-%20Slide%20in%20on%20Scroll%20-%20DONE/index-START.html)
